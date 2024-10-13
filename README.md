@@ -33,4 +33,4 @@ This project scrapes bus route details from Redbus using Selenium and provides a
 |-- CombinedBusData.py
 |-- SqlConnection.py
 |-- Streamlit.py
-
+|-- sql_database_table_creation.sql
